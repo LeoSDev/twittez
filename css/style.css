@@ -55,6 +55,13 @@
 	color:#34CCFE;
 }
 
+/* Body */
+body h2, h3, h4{
+	color:#2B5682;
+	margin-bottom: 30px;
+}
+
+
 /* Wrapper */
 
 #wrapper{
@@ -81,4 +88,19 @@
 .cta{
 	padding:20px 30px;
 	font-size: 18px;
+}
+
+/* Comment ça marche */
+.fa{
+	color:#2B5682;
+	font-size: 30px;
+}
+
+/* Spacers */
+.spacer{
+	height: 150px;
+}
+
+.spacer-sm{
+	height: 60px;
 }
